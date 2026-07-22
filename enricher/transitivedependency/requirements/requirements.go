@@ -251,3 +251,4 @@ func (e Enricher) resolve(ctx context.Context, path string, list []*extractor.Pa
 	}
 	return pkgs, nil
 }
+
