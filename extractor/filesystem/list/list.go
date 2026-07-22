@@ -686,3 +686,4 @@ func RegisterExtractor(name string, initFn InitFn, categories []string) {
 		}
 	}
 }
+
